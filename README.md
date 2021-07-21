@@ -8,10 +8,13 @@ Archimed-JS is a modified lib from [Archimed](https://github.com/ii64/Archimed)
 Usage
 ----
 
+ **Run**
+     > node test.js
+
  **Import**
 
-     >>> const { Archimed } = require('./archimed.js')
-     >>> # you can use 1,>8,<8,1-8
+     > const { Archimed } = require('./archimed.js')
+     > # you can use 1,>8,<8,1-8
 
  **QnA**
 
